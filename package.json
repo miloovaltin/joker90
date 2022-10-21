@@ -1,0 +1,16 @@
+{
+"name": "joker90",
+"theme": "joker90",
+"version": "2.8.6",
+"description": "joker90 สมัครเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+"keywords": [
+"joker90",
+"joker90 เครดิตฟรี",
+"joker90 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker90",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
